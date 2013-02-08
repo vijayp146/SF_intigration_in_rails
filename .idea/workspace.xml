@@ -28,6 +28,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/cache/assets/D6D/160/sprockets%2Ff4ba54cf1ee5c38472931cc41ecd7174" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/cache/assets/DDC/400/sprockets%2Fcffd775d018f68ce5dba1ee0d951a994" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/.gitkeep" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SF_intigration_in_rails.iml" afterPath="$PROJECT_DIR$/.idea/SF_intigration_in_rails.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="SF_intigration_in_rails.iws" />
@@ -54,7 +57,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="0.4390244">
+            <state line="20" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.4878049">
               <folding />
             </state>
           </provider>
@@ -462,7 +465,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="0.4390244">
+        <state line="20" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.4878049">
           <folding />
         </state>
       </provider>
