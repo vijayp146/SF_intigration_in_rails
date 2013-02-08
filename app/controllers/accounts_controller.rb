@@ -10,6 +10,8 @@ class AccountsController < ApplicationController
     @account = Account.find(params[:id])
   end
 
+
+
   def search
     config = YAML.load_file(File.join(::Rails.root, 'config', 'databasedotcom.yml'))
     client = Databasedotcom::Client.new(config)          
