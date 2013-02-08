@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-DynamicImageDemo::Application.load_tasks
+SfdcRailsDemo::Application.load_tasks

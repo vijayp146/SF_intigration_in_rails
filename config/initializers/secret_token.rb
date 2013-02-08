@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-DynamicImageDemo::Application.config.secret_token = 'e6640259320961a3147758ed06a67c1b5009791bd969b6abca3631a3bf9905818591292abdc0b653538839880092b46ba6b5137f1b73b5771fcb510b710beeef'
+SfdcRailsDemo::Application.config.secret_token = '45b4258f4edb5ce6b6a887b78bed34992774065eea8d6c92f0799ae6e0949e5a4c24c427a9c1d8682678b3403268ecae716cbf910bb37741ab79fb6cc56823d5'
