@@ -28,6 +28,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/cache/assets/D6D/160/sprockets%2Ff4ba54cf1ee5c38472931cc41ecd7174" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/cache/assets/DDC/400/sprockets%2Fcffd775d018f68ce5dba1ee0d951a994" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/.gitkeep" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="SF_intigration_in_rails.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,19 +51,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="55" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+            <state line="8" column="12" selection-start="139" selection-end="139" vertical-scroll-proportion="0.25695932">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.25695932">
+            <state line="8" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,8 +78,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -414,16 +415,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="55" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+        <state line="8" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.25695932">
+        <state line="8" column="12" selection-start="139" selection-end="139" vertical-scroll-proportion="0.25695932">
           <folding />
         </state>
       </provider>
