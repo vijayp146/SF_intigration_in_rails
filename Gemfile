@@ -4,7 +4,7 @@ gem 'rails', '3.2.11'
 gem 'mysql2'
 gem 'databasedotcom'
 gem 'databasedotcom-rails'
-gem 'heroku'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -17,12 +17,6 @@ end
 
 gem 'jquery-rails'
 
-group :test do
-  # Pretty printed test output
-  gem 'turn', :require => false
-end
-
-gem "rmagick", "2.12.2", :require => "RMagick"
 
 group :production do
   gem 'therubyracer-heroku', '0.8.1.pre3' # you will need this too
